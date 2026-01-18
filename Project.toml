@@ -4,7 +4,6 @@ authors = ["mpampuch <markpampuch@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
 [deps]
-Reactant = "3c362404-f566-11ee-1572-e11a4b42c853"
 
 [compat]
 julia = "1.9.4"
